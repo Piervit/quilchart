@@ -14,8 +14,6 @@ It cannot be integrated within proprietary programs. If you want to do so,
 please contact me (pvittet|at|murena|dot|io) so we can agree on specific
 licensing.
 
-## Usage
-
 
 QuilChart Copyright (C) 2023 Pierre Vittet
 This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
